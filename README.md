@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KyleSkySu
-- 👀 I’m interested in AMR and general artificial intelligent
+- 👀 I’m interested in AMR and AGI
 - 🌱 I’m currently learning Python and Jetson Nano, Xavier, and ChatGPT
 - 💞️ I’m looking to collaborate on AMR and GAI
 - 📫 Please feel free to reach me via e-mail: turtlehead5561@gmail.com
